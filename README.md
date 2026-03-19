@@ -58,31 +58,26 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
 
-**TABULATION:** 
+**TABULATION:**
+PARABOLICANTENNA Beam voltage : 235 V Beam current : 164 mV Repeller voltage : 42 V 
+<img width="1035" height="1280" alt="image" src="https://github.com/user-attachments/assets/192d1480-430b-41e0-9cc2-c0928d3a3261" />
 
-**HORN ANTENNA** 
+<img width="897" height="1280" alt="image" src="https://github.com/user-attachments/assets/71fbe9c3-c277-4123-b0e6-7a5ec6271901" />
 
-Beam voltage	:
+V1: 1.00 V
 
-Beam current	 :
 
-**PARABOLICANTENNA**
 
-Beam voltage	:
 
-Beam current	 :
-
-Repeller voltage :
-
-	V1 : 
 
 **RESULT:**
+Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted. Beamwidth of parabolic antenna: 20°
 
-Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
 
-Beamwidth of parabolic antenna:		
+CONCLUSION: A new technique has been described that was microwane Uncutainty Framework to establish au determined with well-defined tranceablity parth for soL7 calibrations In addition, measurments results Correlated uncutaints. Repeated parses through the procus Yeilded repeatable magnitude and phaSE is measured.
+
+A new technique has been described that was microwane Uncutainty Framework to establish au determined with well-defined tranceablity parth for soL7 calibrations In addition, measurments results Correlated uncutaints. Repeated parses through the procus Yeilded repeatable magnitude and phaSE is measured.	
 
 
 
